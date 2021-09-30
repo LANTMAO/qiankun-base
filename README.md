@@ -1,16 +1,24 @@
 # qiankun-base
 
-### `yarn start`
-开启
+## Project setup
+```
+npm install
+```
 
-### `yarn test`
-测试
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-### `yarn build`
-构建
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### `yarn eject`
+### Lints and fixes files
+```
+npm run lint
+```
 
-
-## Learn More
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
